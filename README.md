@@ -1,8 +1,10 @@
 # ms-wishlist
 
-Esssa API tem como objetivo receber registros de Lista de desejos.
+Esssa API tem como objetivo gerenciar os itens de uma Lista de desejos.
 
-Rodar a aplicação localmente:
-  -Necessário rodar o docker-composer.
+Tecnologia utilizada: Java 11, spring boot, maven, mongodb e JUnit.
 
-Coleção POSTMAN está localizado dentro do projeto: src/main/resources/postman
+  -Necessário rodar o docker-composer e ter a imagem do mongodb instalada para subir o banco de dados.
+
+  -Coleção POSTMAN para testar os recursos criados está localizada dentro do projeto: src/main/resources/postman
+  
