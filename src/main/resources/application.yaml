@@ -1,0 +1,12 @@
+server:
+  port: ${SERVER_PORT:8090}
+  http2:
+    enabled: true
+  servlet:
+    context-path: /wishlist/v1
+    application-display-name: "ms-wishlist"
+spring:
+  data:
+    mongodb:
+      uri: ${MONGO_URI:mongodb://root:root@localhost:27017/wishlist?authSource=admin&authMechanism=SCRAM-SHA-256}
+      auto-index-creation: true

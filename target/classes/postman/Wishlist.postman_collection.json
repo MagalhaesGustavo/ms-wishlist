@@ -1,0 +1,123 @@
+{
+	"info": {
+		"_postman_id": "9851de89-5c90-4639-8497-26bd9f9c16ef",
+		"name": "Wishlist",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "postWishlist",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8090/wishlist/v1/wishlist",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8090",
+					"path": [
+						"wishlist",
+						"v1",
+						"wishlist"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getWishlistById",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8090/wishlist/v1/wishlist/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8090",
+					"path": [
+						"wishlist",
+						"v1",
+						"wishlist",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "deleteWishlistById",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8090/wishlist/v1/wishlist",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8090",
+					"path": [
+						"wishlist",
+						"v1",
+						"wishlist"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getAllWishlist",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8090/wishlist/v1/wishlist",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8090",
+					"path": [
+						"wishlist",
+						"v1",
+						"wishlist"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}

@@ -1,0 +1,16 @@
+/home/gustavomagalhaes/Desktop/WorkSpace/ms-wishlist/src/main/java/com/challenge/intefaces/json/response/GetAllWishlistResponse.java
+/home/gustavomagalhaes/Desktop/WorkSpace/ms-wishlist/src/main/java/com/challenge/exceptions/RestResponseEntityExceptionHandler.java
+/home/gustavomagalhaes/Desktop/WorkSpace/ms-wishlist/src/main/java/com/challenge/intefaces/Messages.java
+/home/gustavomagalhaes/Desktop/WorkSpace/ms-wishlist/src/main/java/com/challenge/services/WishlistService.java
+/home/gustavomagalhaes/Desktop/WorkSpace/ms-wishlist/src/main/java/com/challenge/domain/WishlistDomain.java
+/home/gustavomagalhaes/Desktop/WorkSpace/ms-wishlist/src/main/java/com/challenge/services/impl/WishlistServiceImpl.java
+/home/gustavomagalhaes/Desktop/WorkSpace/ms-wishlist/src/main/java/com/challenge/intefaces/json/response/GetWishlistResponse.java
+/home/gustavomagalhaes/Desktop/WorkSpace/ms-wishlist/src/main/java/com/challenge/exceptions/UnprocessableEntityException.java
+/home/gustavomagalhaes/Desktop/WorkSpace/ms-wishlist/src/main/java/com/challenge/intefaces/controller/WishlistController.java
+/home/gustavomagalhaes/Desktop/WorkSpace/ms-wishlist/src/main/java/com/challenge/exceptions/NotFoundException.java
+/home/gustavomagalhaes/Desktop/WorkSpace/ms-wishlist/src/main/java/com/challenge/exceptions/MessageError.java
+/home/gustavomagalhaes/Desktop/WorkSpace/ms-wishlist/src/main/java/com/challenge/intefaces/json/request/PostWishlistRequest.java
+/home/gustavomagalhaes/Desktop/WorkSpace/ms-wishlist/src/main/java/com/challenge/intefaces/controller/BaseController.java
+/home/gustavomagalhaes/Desktop/WorkSpace/ms-wishlist/src/main/java/com/challenge/repository/WishlistRepository.java
+/home/gustavomagalhaes/Desktop/WorkSpace/ms-wishlist/src/main/java/com/challenge/MsWishlistApplication.java
+/home/gustavomagalhaes/Desktop/WorkSpace/ms-wishlist/src/main/java/com/challenge/utils/Constants.java
